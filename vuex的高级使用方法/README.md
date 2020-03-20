@@ -1,6 +1,7 @@
 # study-vue
 
-> 在线地址：http://www.booom007.cn//vue/vuex/dist/index#/或者http://139.155.7.230/vue/vuex/dist/index#/
+> 在线地址：http://www.booom007.cn//vue/vuex/dist/index#/
+> 或者http://139.155.7.230/vue/vuex/dist/index#/
 
 ## Build Setup
 
